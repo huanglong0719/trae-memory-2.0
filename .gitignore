@@ -24,6 +24,7 @@ wheels/
 venv/
 env/
 ENV/
+TraeAI-3/
 
 # IDE
 .vscode/
@@ -46,3 +47,13 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+
+# Trae Memory
+.trae/
+test_report.json
+*.pyc
+
+# Test
+.pytest_cache/
+.coverage
+htmlcov/
